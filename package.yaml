@@ -1,8 +1,6 @@
-name: fkyaml
-version: 0.0.1
+name: "fkyaml"
+version: "0.0.1"
 description: "fkYAML is a C++ header-only library to deserialize, serialize and build YAML documents."
-license: MIT
-host: GitHub
-url: https://github.com/PAI-Of/fkyaml
-
-dependencies:
+license: "MIT"
+host: "GitHub"
+url: "https://github.com/PAI-Of/fkyaml"
